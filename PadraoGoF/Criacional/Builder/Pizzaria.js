@@ -23,5 +23,27 @@
 
 //DEFINIR PARTES DA PIZZA:
 
+class Tamanho{
+    constructor(tamanho){
+        this.tamanho = tamanho;
+    }
+}
 
-      
+class Massa{
+    constructor(massa){
+        this.massa = massa;
+    }
+}
+
+class Molho{
+    constructor(molho){
+        this.molho = molho;
+    }
+}
+
+class Proteinas{
+    constructor(proteina){
+        this.proteina = proteina;
+    }
+}
+
